@@ -8,9 +8,9 @@
   First we used Pyspark to read in the CSV file with the HR dataset. We Then clean the data by droping unecessary files such as "employee id" and fill nul values with 0 for "previous year rating" and "education columns".  We Then take the columns with catagorical data and use get_dummies to transform the columns to numerical values. From here we split our data into the target variable and features, then we use sklearns Random Forest to run the data through a model.
 ## Results
 * Machine Learning Model 1:
-  * Description of Model 1 Accuracy: 91%
-  *Precision: 97% for promoted, 87% for not promoted
-  *Recall scores: 85.0% for promoted, 96% for not promoted
+  ** Description of Model 1 Accuracy: 91%
+  **Precision: 97% for promoted, 87% for not promoted
+  **Recall scores: 85.0% for promoted, 96% for not promoted
 
 
 ## Summary
