@@ -16,7 +16,7 @@
   - Precision- 82% for promoted, 80% for not promoted
   - Recall scores- 79.0% for promoted, 83% for not promoted
   
- * Logistic Regession Model 2:
+* Logistic Regession Model 2:
   - Description of Model 2 Accuracy- 88%
   - Precision- 96% for promoted, 82% for not promoted
   - Recall scores- 78.0% for promoted, 97% for not promoted
