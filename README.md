@@ -12,9 +12,9 @@
 ## Results
 
 * Machine Learning Model 1:
- - Description of Model 1 Accuracy- 91%
- - Precision- 97% for promoted, 87% for not promoted
- - Recall scores- 85.0% for promoted, 96% for not promoted
+  - Description of Model 1 Accuracy- 91%
+  - Precision- 97% for promoted, 87% for not promoted
+  - Recall scores- 85.0% for promoted, 96% for not promoted
 
 
 ## Summary
