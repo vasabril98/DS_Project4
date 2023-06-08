@@ -19,6 +19,6 @@
 
 ## Analysis
   
-    Once the model was run we found that the top 5 features by importance to accuracy were average training score, previous year rating, awards won, male gender, and recruitment channel other.  Logically it makes sense that average training score would influence promotion because it reflects job competency. Previous year rating and awards won would indicate recent job performance. Male gender was also a top predictor but it is important to note that the data set was skewed with a 35,295 male count versus a 14,845 female. 
+   Once the model was run we found that the top 5 features by importance to accuracy were average training score, previous year rating, awards won, male gender, and recruitment channel other.  Logically it makes sense that average training score would influence promotion because it reflects job competency. Previous year rating and awards won would indicate recent job performance. Male gender was also a top predictor but it is important to note that the data set was skewed with a 35,295 male count versus a 14,845 female. 
 
 ![image](https://github.com/vasabril98/DS_Project4/assets/118862894/e3354af6-c41e-4a36-b31e-e73f362fb442)
