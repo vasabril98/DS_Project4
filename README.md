@@ -11,14 +11,18 @@
   
 ## Results
 
-* Machine Learning Model 1:
-  - Description of Model 1 Accuracy- 91%
-  - Precision- 97% for promoted, 87% for not promoted
-  - Recall scores- 85.0% for promoted, 96% for not promoted
+* Random Forest Model 1:
+  - Description of Model 1 Accuracy- 81%
+  - Precision- 82% for promoted, 80% for not promoted
+  - Recall scores- 79.0% for promoted, 83% for not promoted
+  
+ * Logistic Regession Model 2:
+  - Description of Model 2 Accuracy- 88%
+  - Precision- 96% for promoted, 82% for not promoted
+  - Recall scores- 78.0% for promoted, 97% for not promoted
 
 
 ## Summary
   
-   Once the model was run we found that the top 5 features by importance to accuracy were average training score, previous year rating, awards won, male gender, and recruitment channel other.  Logically it makes sense that average training score would influence promotion because it reflects job competency. Previous year rating and awards won would indicate recent job performance. Male gender was also a top predictor but it is important to note that the data set was skewed with a 35,295 male count versus a 14,845 female. 
-
+   Once the model was run we found that the top 5 features by importance to accuracy were previous year rating, average training score, recruitment channel other, number of trainings, and reruitment channel sourcing.  Logically it makes sense that average training score and number of trainings would influence promotion because it reflects job competency. Previous year rating also makes logical sense because it is a direct indication of recent job performance. Once the dataset was passed through a logistic regession model to optimize it, accuracy increased  form 80% to 88%.
 ![image](https://github.com/vasabril98/DS_Project4/assets/118862894/e3354af6-c41e-4a36-b31e-e73f362fb442)
