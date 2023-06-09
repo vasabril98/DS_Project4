@@ -29,7 +29,8 @@
 ## Summary
   
    Once the model was run we found that the top 5 features by importance to accuracy were previous year rating, average training score, recruitment channel other, reruitment channel sourcing, and number of trainings.  Logically it makes sense that average training score and number of trainings would influence promotion because it reflects job competency. Previous year rating also makes logical sense because it is a direct indication of recent job performance. Once the dataset was passed through a logistic regession model to optimize it, accuracy increased  form 80% to 88%. The logistic regression model also changed the top 5 to average training score, previous year rating, awards won, length of service, and age. When we filtered the top 5 features through the employees promoted we found that high average trainig scores were the driving force for detrming promotion. Employees who scored 90 or higher on their training  had a 76% chance of getting promoted.
-![image](https://github.com/vasabril98/DS_Project4/assets/118862894/4b7341e9-b307-41ce-8c36-b35524d60f5a)
+![image](https://github.com/vasabril98/DS_Project4/assets/118862894/79da5c90-c04a-471f-b138-74258e006782)
+
 
    
  ## Links: 
