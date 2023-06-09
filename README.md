@@ -32,4 +32,10 @@
 ![image](https://github.com/vasabril98/DS_Project4/assets/118862894/4b7341e9-b307-41ce-8c36-b35524d60f5a)
 
    
+ ## Links: 
+ Tablaeu Exploratory Analaysis https://public.tableau.com/app/profile/christopher.cruz1586/viz/HrPredictionAnalysis/HrPredictionAnalysis?publish=yes
 ![image](https://github.com/vasabril98/DS_Project4/assets/118862894/e3354af6-c41e-4a36-b31e-e73f362fb442)
+
+ Tablaeu Post Ananlysis https://public.tableau.com/app/profile/christopher.cruz1586/viz/HrPredictionAnalysis/HrPredictionAnalysis?publish=yes
+ ![image](https://github.com/vasabril98/DS_Project4/assets/118862894/2ad42987-eb77-45fe-b5c0-f7f88ea93ba1)
+
