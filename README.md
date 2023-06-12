@@ -34,6 +34,7 @@
 
    
  ## Links: 
+ link to data set - https://www.kaggle.com/datasets/arashnic/hr-ana
  Tablaeu Exploratory Analaysis https://public.tableau.com/app/profile/christopher.cruz1586/viz/HrPredictionAnalysis/HrPredictionAnalysis?publish=yes
 ![image](https://github.com/vasabril98/DS_Project4/assets/118862894/e3354af6-c41e-4a36-b31e-e73f362fb442)
 
